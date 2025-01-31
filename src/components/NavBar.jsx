@@ -28,7 +28,7 @@ export default function Navbar() {
 
         <Link to={"/"} style={{ textDecoration: "none" }}>
           <Typography variant="h1" component={"h1"}>
-            My ChatBot
+            Bot AI
           </Typography>
         </Link>
       </Stack>

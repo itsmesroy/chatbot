@@ -25,7 +25,7 @@ export default function Home() {
     );
     const answer = response
       ? response.response
-      : "Sorry, I didn't understand your query!";
+      : "Sorry, Did not understand your query!";
 
     setChat((prev) => [
       ...prev,
